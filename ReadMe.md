@@ -5,20 +5,20 @@ src/com/car_dealership/config/PlainTextConnectionUtil
 	
 * The sql scripts you will need are in the CarDealershipSQL folder
 
-Login Credentials for the application
+* Login Credentials for the application
 
-Username		Password
+	* Password: Pass
 
-Employees:
+	* Employees:
 
-Bob			Pass
+		* Bob
 
-Customers:		
+	* Customers:		
 
-Jay			Pass 
+		* Jay
 
-John 			Pass 
+		* John
+	
+		* Janet
 
-Janet			Pass 
-
-Alice			Pass 
+		* Alice
